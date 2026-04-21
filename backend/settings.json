@@ -1,0 +1,5 @@
+{
+  "llm_base_url": "https://api.openai.com/v1",
+  "llm_token": "sk-you...",
+  "llm_model": "gpt-4o-mini"
+}
